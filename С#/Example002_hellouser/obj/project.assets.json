@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\qqGIT\\С#\\С#.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\qqGIT\\С#\\Example002_hellouser\\С#.csproj",
       "projectName": "С#",
-      "projectPath": "C:\\Users\\Ivan\\Desktop\\qqGIT\\С#\\С#.csproj",
+      "projectPath": "C:\\Users\\Ivan\\Desktop\\qqGIT\\С#\\Example002_hellouser\\С#.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan\\Desktop\\qqGIT\\С#\\obj\\",
+      "outputPath": "C:\\Users\\Ivan\\Desktop\\qqGIT\\С#\\Example002_hellouser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config"
