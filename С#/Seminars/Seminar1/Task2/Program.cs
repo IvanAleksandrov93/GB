@@ -10,4 +10,4 @@ else if (m>n)
 {
     Console.WriteLine("Второе число: " + m + " большее, а второе число " + n + " меньшее");
 }
-else Console.WriteLine("Числа: " + n + " и " + m + " равны");
+else Console.WriteLine("Числа: " + n + " и " + m + " равны"); 
