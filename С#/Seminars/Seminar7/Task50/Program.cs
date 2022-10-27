@@ -18,9 +18,9 @@ for (int i = 0; i < array.GetLength(0); i++)
         Console.WriteLine();    
 }
 Console.WriteLine();
-Console.WriteLine("Введите координату №1");
+Console.WriteLine("Введите координату столбца");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите координату №2");
+Console.WriteLine("Введите координату строки");
 int b = Convert.ToInt32(Console.ReadLine());
     if (a>m)
         Console.WriteLine("нет, не угадал, такого числа");
@@ -29,5 +29,5 @@ int b = Convert.ToInt32(Console.ReadLine());
     else
 {
     Object c = array.GetValue(a,b);
-    Console.WriteLine($"{c}" + "!");
+    Console.WriteLine($"{c}");
 }
