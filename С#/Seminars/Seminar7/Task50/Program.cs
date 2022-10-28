@@ -23,11 +23,12 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите координату строки");
 int b = Convert.ToInt32(Console.ReadLine());
     if (a>m)
-        Console.WriteLine("нет, не угадал, такого числа");
+        Console.WriteLine("нет, не угадал, такого элемента");
     if (b>n)
-        Console.WriteLine("нет, не угадал, такого числа");
+        Console.WriteLine("нет, не угадал, такого элемента");
     else
 {
     Object c = array.GetValue(a,b);
+    Console.WriteLine();
     Console.WriteLine($"{c}");
 }
